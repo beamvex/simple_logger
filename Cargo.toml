@@ -2,6 +2,9 @@
 name = "slogger"
 version = "0.1.0"
 edition = "2024"
+description = "Simple logger for Rust"
+license = "MIT"
+authors = ["Robert Forster <robert.forster@beamvex.com>"]
 
 [lib]
 test = true
